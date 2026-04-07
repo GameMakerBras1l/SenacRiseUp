@@ -1,2 +1,0 @@
-# SenacRiseUp
-Estudando coding
